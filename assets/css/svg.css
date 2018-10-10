@@ -1,0 +1,9 @@
+
+    .cls-1 {
+      fill: red;
+      cursor: pointer;
+      fill-rule: evenodd;
+    }
+    .cls-1:hover {
+      fill: green;
+    }
